@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	int numero = 2; // Variable del numero 2
-	int suma_total = 0; // Variable de la suma total
+	int suma_total = -100; // Variable de la suma total
 	cout << "Estre programa muestra la secuencia de numeros pares desde el 2 hasta el 100" << endl; // Presentacion
 	cout << endl; // Separacion
 	while(numero < 101) // Mientras que el numero sea menor a 101
