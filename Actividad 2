@@ -1,9 +1,9 @@
-#include <iostream>
+#include <iostream> // Solicitar biblioteca
 using namespace std;
 
 int main()
 {
-	int cantidad = 1;
+	int cantidad = 1; // Variable de cantidad
 	float suma_total;
 	float promedio;
 	float numero;
