@@ -15,4 +15,5 @@ int main()
 	}
 	cout << endl << endl; // Separacion
 	cout << "La suma total de los digitos es: " << suma_total; // Suma total de los numeros en pantalla
+	return 0;
 }
