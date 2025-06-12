@@ -25,6 +25,7 @@ int main()
 	}
 	cout << endl << endl; // Separacion
 	cout << "La suma total de los digitos es: " << suma_total << endl; // Suma total de los numeros en pantalla
-	cout << "Hay un total de: " << pares << " numeros pares" << endl;
-	cout << "Hay un total de: " << inpares << " numeros impares" << endl;
+	cout << "Hay un total de: " << pares << " numeros pares" << endl; // Expresion de los numeros pares totatles
+	cout << "Hay un total de: " << inpares << " numeros impares" << endl; // Expresion de numeros inpares totales
+	return 0;
 }
