@@ -27,4 +27,5 @@ int main()
     inpares = inpares - pares;
     cout << "La cantidad de numeros pares ingresados es de: " << pares << endl; // Cantidad de numeros pares
     cout << "La cantidad de numeros inpares es de: " << inpares; // Cantidad de numeros inpares
+    return 0;
 }
