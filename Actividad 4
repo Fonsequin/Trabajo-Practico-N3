@@ -11,4 +11,5 @@ int main()
 		cout << numero << ", "; // Muestra el numero en pantalla
 		numero = numero + 11; // Una vez el ciclo pase al numero se le sumara 11
 	}
+	return 0;
 }
