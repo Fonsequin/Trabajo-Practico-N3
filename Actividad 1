@@ -34,4 +34,5 @@ int main()
 	}
 	cout << "La cantidad de aprobados es de: " << aprobados << endl; // Muestra cuantos aprobados hay
 	cout << "La cantidad de desaprobados es de: " << desaprobados << endl; // Muestra cuantos desapaprobados hay
+	return 0;
 }
